@@ -1,6 +1,5 @@
-# Intelligent Traffic Violation Enforcement & Road Perception System (ITMS)
-
-An enterprise-grade, India-centric Intelligent Traffic Management System (ITMS) featuring deep-learning multi-violation detection, standalone road lane perception, explainable AI (XAI), hazard severity assessment, automated fine calculation, and court-admissible printable receipts (PDF and HTML).
+# automated-traffic-enforcement-system
+An India-centric Intelligent Traffic Management System featuring deep-learning multi-violation detection, standalone road lane perception, explainable AI (XAI), hazard severity assessment, automated fine calculation, and court-admissible printable receipts (PDF and HTML).
 
 ---
 
